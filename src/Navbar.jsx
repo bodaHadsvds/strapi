@@ -8,7 +8,6 @@ const Navbar = () => {
     console.log(e.target.classList, "classlist");
     if (!e.target.classList.contains("nav-link")) {
       setPageId(null);
-      console.log("you are out of nav-link");
     }
   };
   return (

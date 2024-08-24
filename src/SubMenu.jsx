@@ -13,10 +13,7 @@ const SubMenu = () => {
     if(clientX <left-1 || clientX > right-1 || clientY > bottom-1){
       setPageId(null)
     }
-    console.log(subMenu,"submenuContainer");
-    
-
-    // setPageId(null);
+  
     
   };
   return (
