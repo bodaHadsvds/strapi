@@ -1,7 +1,7 @@
 
 import Hero from "./Hero";
 import Navbar from "./Navbar";
-import Sidebar from "./sidebar";
+import Sidebar from "./sidebar"
 import SubMenu from "./SubMenu";
 
 const App = () => {
